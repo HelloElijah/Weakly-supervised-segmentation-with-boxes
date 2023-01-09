@@ -1,9 +1,14 @@
 # Weakly-supervised segmentation with boxes
-## Yolo_v1_from_scratch
+## Yolo v1 from scratch with pytorch
 
 <p align="center">
   <img width="460" height="300" src=images/yolo_sample.png>
 </p>
+
+## Hardware
+GPU will be preferred
+
+Free GPU can be used through Google colab, by changing runtime type to GPU
 
 ## Download dataset(5GB) from Kaggle into Google Colab with the following command
 ```bash
