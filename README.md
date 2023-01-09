@@ -1,5 +1,5 @@
 # Weakly-supervised segmentation with boxes
-Build a Yolo v1 from scratch with pytorch
+Yolo v1 from scratch with pytorch
 
 <p align="center">
   <img width="460" height="300" src=images/yolo_sample.png>
