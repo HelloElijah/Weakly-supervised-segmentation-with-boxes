@@ -6,9 +6,9 @@ Yolo v1 from scratch with pytorch
 </p>
 
 ## Hardware
-GPU will be preferred
+GPU is preferred
 
-Free GPU can be used through Google colab, by changing runtime type to GPU
+Free GPU can be used through Google Colab, by changing runtime type to GPU
 
 ## Download dataset(5GB) from Kaggle into Google Colab with the following command
 ```bash
